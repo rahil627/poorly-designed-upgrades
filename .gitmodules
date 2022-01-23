@@ -1,0 +1,3 @@
+[submodule "src/rahil-actionscript-libraries"]
+	path = src/rahil-actionscript-libraries
+	url = https://github.com/rahil627/rahil-actionscript-libraries.git
